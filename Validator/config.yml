@@ -1,0 +1,5 @@
+port : ":8080"
+user: "postgres"
+password: "password"
+dbname: "postgres"
+sslmode: "disable"
